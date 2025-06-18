@@ -2,7 +2,7 @@
   "name": "user-minutes-app",
   "version": "1.0.0",
   "description": "A simple application to add users, minutes, and dates, and save the data in an Excel file.",
-  "main": "src/app.js",
+  "main": "app.js",
 
   "scripts": {
     "start": "live-server src",
